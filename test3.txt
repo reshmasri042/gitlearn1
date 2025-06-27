@@ -1,3 +1,0 @@
-first enaa panom means U nu side la katumm apo git add filename which changes into A
-git commit -m "test2.txt file added"
-aprm oru file ah push panum nah  user this         git commit -m "test2.txt file added"
